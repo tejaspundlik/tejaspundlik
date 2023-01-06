@@ -16,9 +16,9 @@
 
 <h3 align="center"><img src = "https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" height = "30">  Connect With Me  <img src = "https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" height = "30"></h3>
 <p align="center">
- <a href="https://linkedin.com/in/tejas-pundlik" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="tejas-pundlik" height="30"/></a>
-<a href="https://twitter.com/tejas_pundlik" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white" alt="tejas_pundlik" height="30"/></a>
-<a href="https://instagram.com/_tejaspundlik_" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="_tejaspundlik_" height="30"/></a>
+ <a href="https://linkedin.com/in/tejas-pundlik" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="tejas-pundlik" width="15%"/></a>
+<a href="https://twitter.com/tejas_pundlik" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white" alt="tejas_pundlik" width="12%"/></a>
+<a href="https://instagram.com/_tejaspundlik_" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="_tejaspundlik_" width="15%"/></a>
 </p>
 <br/>
 <br/>
@@ -33,8 +33,8 @@
 
 
 
-<a><img  width="60%" align="center" src="https://github-readme-streak-stats.herokuapp.com?user=the-false-genius&theme=dark" /></a><a><img  width="40%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=the-false-genius&show_icons=true&theme=radical&layout=compact&langs_count=8&hideborder=true" /></a>
+<a><img  width="50%" align="center" src="https://github-readme-streak-stats.herokuapp.com?user=the-false-genius&theme=dark" /></a><a><img align="center" width="50%" src="https://github-readme-stats.vercel.app/api?username=the-false-genius&show_icons=true&count_private=true&theme=tokyonight" alt="Tejas's github stats" /></a>
 
- <p align="center"><a><img align="center" src="https://github-readme-stats.vercel.app/api?username=the-false-genius&show_icons=true&count_private=true&theme=tokyonight" alt="Tejas's github stats" /></a></p>
+ <a><img width="27%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=the-false-genius&show_icons=true&theme=radical&hideborder=false" /></a><a><img align="center" width="73%" src="https://github-readme-activity-graph.cyclic.app/graph?username=the-false-genius&bg_color=282828&color=BABABA&line=d1a01f&point=c58545&hide_border=true" /></a>
 
 [![An image of @tejaspundlik's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/tejaspundlik)](https://holopin.io/@tejaspundlik)
