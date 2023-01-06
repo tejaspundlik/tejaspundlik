@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **MERN Stack and React Native**
 
-- 📫 Reach me at **useforjdoe@gmail.com**
+- 📫 Contact me at **useforjdoe@gmail.com**
 
 - ⚡ **I Love To Learn About Space & Technology**
 
