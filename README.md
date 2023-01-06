@@ -2,7 +2,7 @@
 <h1 align="center">Hello World 🌏, I'm Tejas Pundlik</h1>
 <h3 align="center">An Aspiring Data Scientist</h3>
 <img align="right" alt="Coding" width="375" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=the-false-genius&label=Profile%20views&color=0e75b6&style=flat" alt="the-false-genius" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=the-false-genius&label=Profile%20views&color=0e75b6&style=flat" alt="the-false-genius" height="25"/> </p>
 
 
 
