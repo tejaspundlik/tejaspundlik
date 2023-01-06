@@ -29,3 +29,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=the-false-genius&" alt="the-false-genius" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=the-false-genius&show_icons=true&locale=en" alt="the-false-genius" /></p>
+[![An image of @tejaspundlik's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/tejaspundlik)](https://holopin.io/@tejaspundlik)
