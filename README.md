@@ -14,10 +14,9 @@
 
 <h3 align="center">Connect With Me</h3>
 <p align="center">
-<a href="https://twitter.com/tejas_pundlik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tejas_pundlik" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/tejas-pundlik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tejas-pundlik" height="30" width="40" /></a>
-<a href="https://instagram.com/_tejaspundlik_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_tejaspundlik_" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/sometpcoder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sometpcoder" height="30" width="40" /></a>
+ <a href="https://linkedin.com/in/tejas-pundlik" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="tejas-pundlik" height="30"/></a>
+<a href="https://twitter.com/tejas_pundlik" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white" alt="tejas_pundlik" height="30"/></a>
+<a href="https://instagram.com/_tejaspundlik_" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="_tejaspundlik_" height="30"/></a>
 </p>
 <br/>
 <br/>
