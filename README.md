@@ -33,7 +33,7 @@
 
 
 
-<a><img height="200" align="center" src="https://github-readme-streak-stats.herokuapp.com?user=the-false-genius&theme=dark" /></a><a><img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=the-false-genius&show_icons=true&theme=radical&layout=compact&langs_count=8&hideborder=true" /></a>
+<a><img  width="60%" align="center" src="https://github-readme-streak-stats.herokuapp.com?user=the-false-genius&theme=dark" /></a><a><img  width="40%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=the-false-genius&show_icons=true&theme=radical&layout=compact&langs_count=8&hideborder=true" /></a>
 
  <p align="center"><a><img align="center" src="https://github-readme-stats.vercel.app/api?username=the-false-genius&show_icons=true&count_private=true&theme=tokyonight" alt="Tejas's github stats" /></a></p>
 
