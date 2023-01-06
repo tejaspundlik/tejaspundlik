@@ -4,7 +4,7 @@
 <h3 align="center">An Aspiring Data Scientist</h3>
 
 <img align="right" alt="Coding" width="350" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=the-false-genius&label=Profile%20views&color=0e75b6&style=flat" alt="the-false-genius" height="25"/> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=tejaspundlik&label=Profile%20views&color=0e75b6&style=flat" alt="tejaspundlik" height="25"/> </p>
 
 
 
@@ -33,8 +33,8 @@
 
 
 
-<a><img  width="50%" align="center" src="https://github-readme-streak-stats.herokuapp.com?user=the-false-genius&theme=dark" /></a><a><img align="center" width="50%" src="https://github-readme-stats.vercel.app/api?username=the-false-genius&show_icons=true&count_private=true&theme=tokyonight" alt="Tejas's github stats" /></a>
+<a><img  width="50%" align="center" src="https://github-readme-streak-stats.herokuapp.com?user=tejaspundlik&theme=dark" /></a><a><img align="center" width="50%" src="https://github-readme-stats.vercel.app/api?username=tejaspundlik&show_icons=true&count_private=true&theme=tokyonight" alt="Tejas's github stats" /></a>
 
- <a><img width="27%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=the-false-genius&show_icons=true&theme=radical&hideborder=false" /></a><a><img align="center" width="73%" src="https://github-readme-activity-graph.cyclic.app/graph?username=the-false-genius&bg_color=282828&color=BABABA&line=d1a01f&point=c58545&hide_border=true" /></a>
+ <a><img width="27%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tejaspundlik&show_icons=true&theme=radical&hideborder=false" /></a><a><img align="center" width="73%" src="https://github-readme-activity-graph.cyclic.app/graph?username=tejaspundlik&bg_color=282828&color=BABABA&line=d1a01f&point=c58545&hide_border=true" /></a>
 
 [![An image of @tejaspundlik's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/tejaspundlik)](https://holopin.io/@tejaspundlik)
