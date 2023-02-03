@@ -14,8 +14,8 @@
 
 <h3 align="center"><img src = "https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" height = "30rem" width="60rem">  Connect With Me  <img src = "https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" height = "30rem" width="60rem"></h3>
 <p align="center">
- <a href="https://linkedin.com/in/tejas-pundlik" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="tejas-pundlik" width="15%"/></a>
-<a href="https://twitter.com/tejas_pundlik" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white" alt="tejas_pundlik" width="12%"/></a>
+ <a href="https://linkedin.com/in/tejas-pundlik" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="tejas-pundlik" width="15%"/></a>
+<a href="https://twitter.com/tejas_pundlik" target="_blank"><img align="center" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white" alt="tejas_pundlik" width="12%"/></a>
 </p>
 <br/>
 <br/>
