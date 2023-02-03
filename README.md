@@ -2,9 +2,7 @@
 
 <h1 align="center">Hello World <img width="10%" src="https://qph.cf2.quoracdn.net/main-qimg-31f99587a5c70736f7f385e332814420" />, I'm Tejas Pundlik</h1>
 <h3 align="center">An Aspiring Data Scientist</h3>
-<p align="center"><img src="https://komarev.com/ghpvc/?username=tejaspundlik&label=Profile%20views&color=0e75b6&style=flat" alt="tejaspundlik" height="25"/></p>
 <img align="right" alt="Coding" width="350" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
-
 
 
 
@@ -18,7 +16,6 @@
 <p align="center">
  <a href="https://linkedin.com/in/tejas-pundlik" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="tejas-pundlik" width="15%"/></a>
 <a href="https://twitter.com/tejas_pundlik" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white" alt="tejas_pundlik" width="12%"/></a>
-<a href="https://instagram.com/_tejaspundlik_" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="_tejaspundlik_" width="15%"/></a>
 </p>
 <br/>
 <br/>
