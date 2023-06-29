@@ -26,11 +26,12 @@
 <br/>
 
 <h1 align="center"><img src = "https://raw.githubusercontent.com/gist/ManulMax/2d20af60d709805c55fd784ca7cba4b9/raw/bcfeac7604f674ace63623106eb8bb8471d844a6/github.gif" height = "25rem" width="30rem">  GitHub Stats  <img src = "https://raw.githubusercontent.com/gist/ManulMax/2d20af60d709805c55fd784ca7cba4b9/raw/bcfeac7604f674ace63623106eb8bb8471d844a6/github.gif" height = "25rem" width="30rem"></h1>
-<br />
 
 
 
 <a><img  width="50%" align="center" src="https://github-readme-streak-stats.herokuapp.com?user=tejaspundlik&theme=dark" /></a><a><img align="center" width="50%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=tejaspundlik&show_icons=true&count_private=true&theme=tokyonight" alt="Tejas's github stats" /></a>
 
  <a><img width="27%" align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=tejaspundlik&show_icons=true&theme=radical&hideborder=false" /></a><a><img align="center" width="73%" src="https://github-readme-activity-graph.vercel.app/graph?username=tejaspundlik&theme=react" /></a>
+<br/>
+
 [![An image of @tejaspundlik's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/tejaspundlik)](https://holopin.io/@tejaspundlik)
