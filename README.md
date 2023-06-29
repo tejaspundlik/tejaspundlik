@@ -32,6 +32,5 @@
 
 <a><img  width="50%" align="center" src="https://github-readme-streak-stats.herokuapp.com?user=tejaspundlik&theme=dark" /></a><a><img align="center" width="50%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=tejaspundlik&show_icons=true&count_private=true&theme=tokyonight" alt="Tejas's github stats" /></a>
 
- <a><img width="27%" align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=tejaspundlik&show_icons=true&theme=radical&hideborder=false" /></a><a><img align="center" width="73%" src="https://github-readme-activity-graph.cyclic.app/graph?username=tejaspundlik&bg_color=282828&color=BABABA&line=d1a01f&point=c58545&hide_border=true" /></a>
-
+ <a><img width="27%" align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=tejaspundlik&show_icons=true&theme=radical&hideborder=false" /></a><a><img align="center" width="73%" src="https://github-readme-activity-graph.vercel.app/graph?username=tejaspundlik&theme=react" /></a>
 [![An image of @tejaspundlik's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/tejaspundlik)](https://holopin.io/@tejaspundlik)
