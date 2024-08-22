@@ -1,14 +1,15 @@
-![MasterHead](https://camo.githubusercontent.com/ba9f3bd30647e352a3f5e1e45eb45c6ec7bad6155cd16aaedf4a426738da0ca5/68747470733a2f2f696e646f616e616c79746963612e636f6d2f7374617469632f696d616765732f62616e6e6572722e676966)
+![240304586-d48893bd-0757-481c-8d7e-ba3e163feae7](https://github.com/user-attachments/assets/3b704ae4-71b1-40ef-9612-11fb6a791d16)
 
 <h1 align="center">Hello World <img width="10%" src="https://qph.cf2.quoracdn.net/main-qimg-31f99587a5c70736f7f385e332814420" />, I'm Tejas Pundlik</h1>
-<h3 align="center">An Aspiring Data Scientist</h3>
+<h3 align="center">Versatile Software Engineer</h3>
 <img align="right" alt="Coding" width="350" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 
 
 
-🌱 I’m currently learning **MERN Stack and React Native**
+🌱 I’m currently exploring new technologies
 
-📫 Contact me at **useforjdoe@gmail.com**
+📫 Contact me at **useforjdoe@gmail.com** or <a href="https://tejaspundlik.vercel.app/" target="_blank">visit my personal website</a>
+
 
 ⚡ **I Love To Learn About Space & Technology**
 
